@@ -14,7 +14,7 @@ To utilize the application, follow these steps:
 2. **Chat App Home Screen:** Homescreen of the chat application with no active chats.
 ![Screenshot 2024-06-08 154712](https://github.com/hritulpardhi/IbmChatBot/assets/166939863/730bbddb-0743-4dc8-9216-4dcb5c2a8442)
 
-3. **Basic Chat Examples:** Examples of basic chat interactions, featuring a copy button to conveniently copy chat outputs.
+3. **Basic Chat Examples:** Examples of basic chat interactions, featuring a copy button to copy text response outputs conveniently.
 ![Screenshot 2024-06-08 154838](https://github.com/hritulpardhi/IbmChatBot/assets/166939863/dc5b8321-91a6-42a8-ba5a-63a521631ba4)
 
 4. **Multiline Input Support:** Supports multiline input for better readability during conversations.
