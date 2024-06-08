@@ -1,0 +1,60 @@
+/* Global Box Model */
+* {
+  box-sizing: border-box;
+}
+
+/* Resetting Default Margin */
+body {
+  margin: 0;
+}
+
+/* Container Styles */
+.container {
+  margin: 1rem;
+  text-align: center;
+}
+
+/* Navigation Styles */
+.nav {
+  background-color: #002d72; /* Dark IBM Blue */
+  color: #ffffff; /* White */
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: 2rem;
+  padding: 0 1rem;
+}
+
+/* Site Title Styles */
+.site-title {
+  font-size: 2rem;
+}
+
+/* Navigation List Styles */
+.nav ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+/* Navigation Link Styles */
+.nav a {
+  color: inherit;
+  text-decoration: none;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding: .25rem;
+}
+
+/* Active Link Styles */
+.nav li.active {
+  background-color: #003b92; /* Slightly Darker IBM Blue */
+}
+
+/* Hover Styles */
+.nav li:hover {
+  background-color: #0057b8; /* Lighter IBM Blue */
+}
