@@ -26,4 +26,5 @@ To utilize the application, follow these steps:
 Feel free to explore the provided screenshots for a glimpse of the application's functionalities.
 
 For any further reference you can visit this link - https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/overview-wx.html?context=wx&audience=wdp
+
 I welcome any feedback or contributions! Let's innovate together. 
