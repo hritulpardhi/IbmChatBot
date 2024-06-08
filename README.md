@@ -20,7 +20,7 @@ To utilize the application, follow these steps:
 4. **Multiline Input Support:** Supports multiline input for better readability during conversations.
 ![Screenshot 2024-06-08 155257](https://github.com/hritulpardhi/IbmChatBot/assets/166939863/3789de99-da9e-46e6-acee-3610c69d56ae)
 
-5. **Multiline Output Example:** Output showcasing responses to multiline questions by the chatbot.
+5. **Multiline Output Example:** Output showcasing responses to multiline questions responded by the chatbot.
 ![Screenshot 2024-06-08 155330](https://github.com/hritulpardhi/IbmChatBot/assets/166939863/10ac0b63-d33b-4f6b-8e51-cef4a04d75fe)
 
 Feel free to explore the provided screenshots for a glimpse of the application's functionalities.
