@@ -126,4 +126,4 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-IBM_WATSON_GRANT_TYPE = "urn%3Aibm%3Aparams%3Aoauth%3Agrant-type%3Aapikey&apikey="#insert your api key here
+IBM_WATSON_GRANT_TYPE = "urn%3Aibm%3Aparams%3Aoauth%3Agrant-type%3Aapikey&apikey="#insert your api key here!!!
