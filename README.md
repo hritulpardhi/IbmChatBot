@@ -1,4 +1,5 @@
-IBM Chatbot with Watson API (Llama3) in React and Django 
+IBM Chatbot with Watson API (Llama3) in React and Django
+
 This repository contains a simple chatbot application that utilizes the IBM Watson API to offer interactive chat experiences using AI technology. The front end is built with React, and the back end runs on Django. The frontend also includes caching mechanisms to improve performance by locally storing chat data in cookies.
 
 Usage
