@@ -6,7 +6,6 @@ Usage
 To utilize the application, follow these steps:
 1. Create your credentials for IBM Watson and obtain an API key.
 2. Paste the obtained API key into the settings.py file.
-3. For any further reference you can visit this link - https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/overview-wx.html?context=wx&audience=wdp
 
 **App Demo :**
 1. **Home Screen:** Initial screen of the application directing users to the chatbot page.
@@ -26,7 +25,5 @@ To utilize the application, follow these steps:
 
 Feel free to explore the provided screenshots for a glimpse of the application's functionalities.
 
-
-
-
-
+For any further reference you can visit this link - https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/overview-wx.html?context=wx&audience=wdp
+I welcome any feedback or contributions! Let's innovate together. 
